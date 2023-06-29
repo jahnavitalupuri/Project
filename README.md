@@ -6,7 +6,7 @@ This is a web based application developed for health related telugu based websit
 
 
 **Project Link** - https://yellow-flower-031761e00.3.azurestaticapps.net/
-**Project demo video link** -
+ **Project demo video link** - https://youtu.be/nQX3NY1xhhs
 
 
 # Azure Technologies used for Project
